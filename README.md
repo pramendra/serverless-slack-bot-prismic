@@ -71,6 +71,11 @@ $ git push
 $ npm install apollo-client graphql-tag graphql apollo-link-prismic apollo-cache-inmemory --save
 ```
 
+```bash
+$ npm install ramda
+$ npm i -D  @types/ramda
+```
+
 #### add graphql endpont
 
 add following in .env
